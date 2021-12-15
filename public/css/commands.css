@@ -1,0 +1,27 @@
+div.vr{
+    color: white;
+    border: 0.05em solid currentColor;
+    height:2em;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color:rgb(240, 246, 255);
+}
+
+thead.table-primary th{
+    background-color: rgba(92, 141, 233, 0.288) !important;
+}
+
+a.navbar-brand{
+    font-size: 22px;
+}
+
+a.nav-link{
+    font-size: 16px;
+}
+
+div.content-header > p{
+    font-size: 18px;
+}

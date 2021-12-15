@@ -1,0 +1,13 @@
+.body{
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+}
+
+button.button{
+    background: linear-gradient(135deg,#001e31,#282552 40%,#293f5c 60%,#001e31);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: 0.5px solid rgb(142, 142, 180);
+    border-radius: 6px;
+    box-shadow: 1px 1px 5px 1px rgb(155, 155, 179);
+}

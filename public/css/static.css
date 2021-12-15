@@ -1,0 +1,35 @@
+html, body{
+    height: 100%;
+    scroll-behavior: smooth;
+    font:'Andada Pro';
+}
+
+body, nav, footer{
+    background: linear-gradient(135deg,#00111c,#151330 40%,#111d2b 60%,#00111c);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div.vr{
+    color: white;
+    border: 0.05em solid currentColor;
+    height:2em;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+}
+
+a.navbar-brand{
+    font-size: 22px;
+}
+
+a.nav-link{
+    font-size: 16px;
+}
+
+a.social{
+    text-decoration: none;
+}
+
+.socials{
+    padding-top: 1.34em;
+}
